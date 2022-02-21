@@ -3,11 +3,11 @@
 `Designr` is an ultimate (phuck yeah) multi-purpose premium WordPress theme I used to sell on themeforest with 712 sales and average rating of 4.92 :relieved: <br />
 Since I don't plan to sell premium themes anymore, I hope this theme will help new authors in building advanced WordPress themes with all possible features :partying_face: <br />
 Theme uses Elementor as a page builder.
-
-![Designr Feature](preview1.jpeg)
-![Designr Feature 2](preview2.jpeg)
-![Designr Feature 3](preview3.jpeg)
-![Site Import/Export](site-import.png)
+<br /><br />
+![Designr Feature](preview1.jpeg) <br />
+![Designr Feature 2](preview2.jpeg) <br />
+![Designr Feature 3](preview3.jpeg) <br />
+![Site Import/Export](site-import.png) <br />
 ![Header Creator](header-creator.png)
 
 Contents
