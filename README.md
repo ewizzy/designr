@@ -1,7 +1,7 @@
 # Designr - Ultimate Multi-Purpose WordPress Theme
 
-`Designr` is an ultimate (phuck yeah) multi-purpose premium WordPress theme I used to sell on themeforest with 712 sales and average rating of 4.92 :relieved:
-Since I don't plan to sell premium themes anymore, I hope this theme will help new authors in building advanced WordPress themes with all possible features :partying_face:
+`Designr` is an ultimate (phuck yeah) multi-purpose premium WordPress theme I used to sell on themeforest with 712 sales and average rating of 4.92 :relieved: <br />
+Since I don't plan to sell premium themes anymore, I hope this theme will help new authors in building advanced WordPress themes with all possible features :partying_face: <br />
 Theme uses Elementor as a page builder.
 
 ![Designr Feature](preview1.jpeg)
@@ -26,20 +26,20 @@ I hope this theme will help devs in creating their own premium themes with all t
 + #### 1000+ Options
 + #### 6 Premade Websites
 + #### 10 Blog Templates:
-+ Blog Default
-+ Blog Left Sidebar
-+ Blog Left Sidebar 1 Row
-+ Fullwidth Blog
-+ Masonry Blog 4 Rows
-+ Masonry Blog 3 Rows
-+ Masonry Blog 2 Rows
-+ Masonry Blog Random
-+ Masonry Blog Random 2
-+ Blog 1 Row
++ - Blog Default
++ - Blog Left Sidebar
++ - Blog Left Sidebar 1 Row
++ - Fullwidth Blog
++ - Masonry Blog 4 Rows
++ - Masonry Blog 3 Rows
++ - Masonry Blog 2 Rows
++ - Masonry Blog Random
++ - Masonry Blog Random 2
++ - Blog 1 Row
 + #### 3 Post Templates:
-+ Default Template
-+ Fullwidth Post Template
-+ Left Sidebar Post Template
++ - Default Template
++ - Fullwidth Post Template
++ - Left Sidebar Post Template
 + Or create post page on frontend
 + #### Truly One Click Website Importer
 + #### 100% Frontend
@@ -64,7 +64,7 @@ I hope this theme will help devs in creating their own premium themes with all t
 + Full & Unlimited Typography
 + Theme Style Cached by default
 + Boost speed even more – ready for any cache plugin
-+ Compatible with most of popular plugins
++ Compatible with most of the popular plugins
 + #### Woocommerce Ready – Theme supports all woocommerce features
 + #### Woo Grid – Create Woo products designs easier that ever
 + Translation ready – use .po file to translate to any language easily
@@ -74,4 +74,4 @@ I hope this theme will help devs in creating their own premium themes with all t
 
 ### Usage
 
-If you're too lazy you can just open all files and search for string 'designr' and replace with your own theme name. Of course, you need to build your own templates to include them in theme. Currently available sites to import inside of theme do not work propertly because of multiple critical updates in Elementor after theme is built but code is still valid, just don't look good :) I guess you don't plan to sell my designs as yours, do you? :raised_eyebrow:	:expressionless: :zany_face:
+If you're too lazy you can just open all files and search for string 'designr' and replace with your own theme name. <br />Of course, you need to build your own templates to include them in the theme. Currently available sites to import inside of theme do not work propertly because of multiple critical updates in Elementor after theme is built but code is still valid, just don't look good :) <br />I guess you don't plan to sell my designs as yours, do you? :raised_eyebrow:	:expressionless: :zany_face:
