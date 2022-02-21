@@ -1,0 +1,1202 @@
+# Designr Theme
+# Copyright (C) YEAR 2017 ewizz
+msgid ""
+msgstr ""
+"Project-Id-Version: designr 1\n"
+"Report-Msgid-Bugs-To: msx@gmail.com\n"
+"POT-Creation-Date: 2017-08-09 02:23+0200\n"
+"PO-Revision-Date: 2017-08-09 02:24+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: plurals=2; plural=(n > 1)\n"
+"X-Generator: designr\n"
+
+#: archive.php:17 author.php:17 category.php:17 index.php:19
+#: template-blog.php:20
+msgid "No posts found."
+msgstr ""
+
+#: archive.php:26 author.php:26 category.php:26 index.php:27 search.php:25
+#: single.php:32 single.php:73 template-blog.php:28
+msgid "Posted on"
+msgstr ""
+
+#: author.php:6
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:51
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:52
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:82
+msgid "You must be"
+msgstr ""
+
+#: comments.php:82
+msgid "logged in"
+msgstr ""
+
+#: comments.php:82
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:89
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:89
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:89
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:103
+msgid "XHTML:"
+msgstr ""
+
+#: comments.php:103
+msgid "You can use these tags:"
+msgstr ""
+
+#: comments.php:105
+msgid "Comment*"
+msgstr ""
+
+#: comments.php:107
+msgid "SUBMIT"
+msgstr ""
+
+#: functions.php:18
+msgid "&laquo;"
+msgstr ""
+
+#: functions.php:19
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:35
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:48
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:49
+msgid "Modal Menu Left"
+msgstr ""
+
+#: functions.php:50
+msgid "Modal Menu Center"
+msgstr ""
+
+#: functions.php:51
+msgid "Modal Menu Right"
+msgstr ""
+
+#: functions.php:124
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:126
+msgid ""
+"Default for single post, pages...if not changed on Appearance->Sidebars."
+msgstr ""
+
+#: functions.php:133
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:135
+msgid "Category, archive and other blog pages"
+msgstr ""
+
+#: functions.php:142
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:144
+msgid "For footer widgets only"
+msgstr ""
+
+#: functions.php:231
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:231
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:243
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:245
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:246 includes/mega-menu/class-edit-menu-walker.php:147
+msgid "Edit"
+msgstr ""
+
+#: functions.php:252
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: index.php:42
+msgid "Please add widgets to sidebar or choose template without sidebar."
+msgstr ""
+
+#: search.php:17
+msgid "Nothing found. Sorry."
+msgstr ""
+
+#: sidebar.php:13
+msgid ""
+"Sidebar is empty. Please add widgets to sidebar in Appearance -> Widgets, or "
+"choose fullwidth page."
+msgstr ""
+
+#: single.php:32
+msgid "by"
+msgstr ""
+
+#: single.php:32
+msgid "in"
+msgstr ""
+
+#: single.php:44
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: single.php:96
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: single.php:99
+msgid "NEXT POST"
+msgstr ""
+
+#: includes/footers/footer1.php:13
+msgid ""
+"There are no widgets added to Footer Sidebar. Please add footer widgets by "
+"going to Appearance -> Widgets, or choose layout without widgets in Theme "
+"Options -> Footer Creator</p>"
+msgstr ""
+
+#: includes/headers/header1.php:25
+msgid "To add logo and other options please install \"Designr Addons\" plugin."
+msgstr ""
+
+#: includes/headers/header1.php:54
+msgid "Please Add Menu in Appearance->Menus"
+msgstr ""
+
+#: includes/headers/header2.php:24
+msgid "To add logo and other options please install Designr Addons plugin."
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:98
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:102
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:115
+msgid "sub item"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:130
+msgid "Move up"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:143
+msgid "Move down"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:147
+msgid "Edit menu item"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:156
+msgid "URL"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:163
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:169
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:176
+msgid "Open link in a new tab"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:181
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:187
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:193
+msgid "Description"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:195
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:203
+msgid "Move"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:204
+msgid "Up one"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:205
+msgid "Down one"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:208
+msgid "To the top"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:214
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:227
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:166
+#: includes/metaboxes/cmb2/includes/CMB2_Types.php:409
+#: includes/metaboxes/cmb2/includes/types/CMB2_Type_File_Base.php:83
+msgid "Remove"
+msgstr ""
+
+#: includes/mega-menu/class-edit-menu-walker.php:228
+msgid "Cancel"
+msgstr ""
+
+#: includes/mega-menu/class-frontend-menu.php:341
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:189
+msgctxt "edit menu walker"
+msgid "Icon :"
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:192
+msgctxt "edit menu walker"
+msgid "no"
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:196
+msgctxt "edit menu walker"
+msgid "iconfont"
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:201
+msgctxt "edit menu walker"
+msgid "Iconfont code"
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:210
+msgctxt "edit menu walker"
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:216
+msgctxt "edit menu walker"
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:220
+msgctxt "edit menu walker"
+msgid "Number of columns: "
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:232
+msgctxt "edit menu walker"
+msgid "Hide title in mega menu"
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:238
+msgctxt "edit menu walker"
+msgid "Remove link"
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:244
+msgctxt "edit menu walker"
+msgid "This item should start a new row"
+msgstr ""
+
+#: includes/mega-menu/class-mega-menu-admin.php:252
+msgctxt "edit menu walker"
+msgid "This item should start a new column"
+msgstr ""
+
+#: includes/metaboxes/load-metaboxes.php:15
+msgid "Testimonial Details"
+msgstr ""
+
+#: includes/metaboxes/load-metaboxes.php:28
+msgid "Name"
+msgstr ""
+
+#: includes/metaboxes/load-metaboxes.php:35
+msgid "Job"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2.php:173
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2.php:549
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Ajax.php:189
+#: includes/metaboxes/cmb2/includes/helper-functions.php:104
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Base.php:406
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%1$s\" "
+"parameter."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Base.php:410
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%1$s\" parameter."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Base.php:440
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Base.php:442
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Base.php:475
+#: includes/metaboxes/cmb2/includes/CMB2_Hookup_Base.php:87
+#: includes/metaboxes/cmb2/includes/types/CMB2_Type_Base.php:149
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Base.php:490
+#: includes/metaboxes/cmb2/includes/types/CMB2_Type_Base.php:133
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Field.php:1168
+msgid "Add Group"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Field.php:1169
+msgid "Remove Group"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Field.php:1191
+#: includes/metaboxes/cmb2/includes/CMB2_Field.php:1195
+msgid "None"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Field.php:1256
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Field_Display.php:432
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:167
+#: includes/metaboxes/cmb2/includes/types/CMB2_Type_File_Base.php:78
+msgid "File:"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_hookup.php:163
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_hookup.php:167
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_hookup.php:251
+msgid "Settings updated."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_hookup.php:253
+msgid "Nothing to update."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:107
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:147
+msgid "Clear"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:108
+msgid "Default"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:109
+msgid "Select Color"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:110
+msgid "Current Color"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:137
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:138
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:139
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:140
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:141
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:142
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:143
+msgid "Next"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:144
+msgid "Prev"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:145
+msgid "Today"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:146
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:156
+msgid "Done"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:150
+msgid "Choose Time"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:151
+msgid "Time"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:152
+msgid "Hour"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:153
+msgid "Minute"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:154
+msgid "Second"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:155
+msgid "Now"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:157
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:163
+msgid "Use this file"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:164
+msgid "Use these files"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:165
+#: includes/metaboxes/cmb2/includes/types/CMB2_Type_File_Base.php:63
+msgid "Remove Image"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:168
+#: includes/metaboxes/cmb2/includes/types/CMB2_Type_File_Base.php:81
+msgid "Download"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_JS.php:169
+msgid "Select / Deselect All"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Types.php:228
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/helper-functions.php:302
+msgid "Save"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:24
+msgid "The register_routes() method must be overriden"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:34
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:46
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:58
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:70
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:82
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:94
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:106
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:118
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:130
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:142
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:154
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:167
+#, php-format
+msgid "Method '%s' not implemented. Must be over-ridden in subclass."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:272
+msgid "Current page of the collection."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:280
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:289
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/shim/WP_REST_Controller.php:307
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/types/CMB2_Type_File.php:40
+msgid "Add or Upload File"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: includes/metaboxes/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:99
+msgid "No terms"
+msgstr ""
+
+#: includes/sidebar/unlimited-sidebars.php:129
+msgid ""
+"You have not added any sidebars. Please add new sidebar by using form on "
+"right side --->"
+msgstr ""
+
+#: includes/sidebar/unlimited-sidebars.php:260
+msgid "Delete this sidebar?"
+msgstr ""
+
+#: includes/sidebar/unlimited-sidebars.php:333
+msgid "Enter name of a new sidebar below."
+msgstr ""
+
+#: includes/sidebar/unlimited-sidebars.php:353
+msgid "Sidebar is saved!"
+msgstr ""
+
+#: includes/sidebar/unlimited-sidebars.php:355
+msgid "You can now go manage the"
+msgstr ""
+
+#: includes/sidebar/unlimited-sidebars.php:355
+msgid "widgets"
+msgstr ""
+
+#: includes/sidebar/unlimited-sidebars.php:355
+msgid "for this sidebar."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:360
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:378
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:399
+#: includes/tgm/class-tgm-plugin-activation.php:3303
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:400
+#: includes/tgm/class-tgm-plugin-activation.php:3096
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:615
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:616
+msgid "Update Required"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:731
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:1037
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:1037
+#: includes/tgm/class-tgm-plugin-activation.php:1047
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:1047
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:1236
+#: includes/tgm/class-tgm-plugin-activation.php:3092
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2105
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2414
+msgid "Required"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2417
+msgid "Recommended"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2433
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2436
+msgid "External Source"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2439
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2456
+msgid "Not Installed"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2460
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2462
+msgid "Active"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2468
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2471
+msgid "Requires Update"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2474
+msgid "Update recommended"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2483
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2529
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2533
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2537
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2541
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2623
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2631
+msgid "Installed version:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2639
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2651
+msgid "Available version:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2674
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2688
+msgid "Plugin"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2689
+msgid "Source"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2690
+msgid "Type"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2694
+msgid "Version"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2695
+msgid "Status"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2744
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2749
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2755
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2827
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2860
+msgid "Install"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2866
+msgid "Update"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2869
+msgid "Activate"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2900
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2902
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2943
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2945
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3052
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3078
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3302
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3642
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3645
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3647
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3651
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3653
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3653
+#: includes/tgm/class-tgm-plugin-activation.php:3661
+msgid "Show Details"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3653
+#: includes/tgm/class-tgm-plugin-activation.php:3661
+msgid "Hide Details"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3654
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3656
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3659
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3661
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3662
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3664
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
